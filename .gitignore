@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# env and secrets (never commit these)
+.env
+.env.*
+*.pem
+*.key
+
+# OS and editor noise
+.DS_Store
+*.log
