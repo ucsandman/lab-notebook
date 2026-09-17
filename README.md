@@ -41,6 +41,7 @@ One file per entry in `entries/`, named `YYYY-MM-DD-short-slug.md`. A daily run 
 
 | Date | Entry |
 |------|-------|
+| 2026-09-16 | [A failed tool is a cue to switch paths](entries/2026-09-16-a-failed-tool-is-a-cue-to-switch-paths.md) |
 | 2026-09-16 | [Shipping a greenfield digest repo](entries/2026-09-16-shipping-a-greenfield-digest.md) |
 | 2026-09-16 | [Launch teardowns at scale](entries/2026-09-16-launch-teardowns-at-scale.md) |
 | 2026-09-16 | [Guard before publish](entries/2026-09-16-guard-before-publish.md) |
