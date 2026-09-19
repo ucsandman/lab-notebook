@@ -48,3 +48,4 @@ One file per entry in `entries/`, named `YYYY-MM-DD-short-slug.md`. A daily run 
 | 2026-09-16 | [Verify the artifact, not the mechanism](entries/2026-09-16-verify-the-artifact-not-the-mechanism.md) |
 | 2026-09-16 | [Disprove theories empirically before theorizing](entries/2026-09-16-disprove-theories-empirically.md) |
 | 2026-09-17 | [Verify the load-bearing step before building](entries/2026-09-17-verify-the-load-bearing-step.md) |
+| 2026-09-18 | [When the remote diverges, park the decision](entries/2026-09-18-when-the-remote-diverges-park-the-decision.md) |
