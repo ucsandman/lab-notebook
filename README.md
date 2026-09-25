@@ -50,3 +50,8 @@ One file per entry in `entries/`, named `YYYY-MM-DD-short-slug.md`. A daily run 
 | 2026-09-17 | [Verify the load-bearing step before building](entries/2026-09-17-verify-the-load-bearing-step.md) |
 | 2026-09-18 | [When the remote diverges, park the decision](entries/2026-09-18-when-the-remote-diverges-park-the-decision.md) |
 | 2026-09-19 | [A negative result still closes a door](entries/2026-09-19-a-negative-result-still-closes-a-door.md) |
+| 2026-09-20 | [Let the reboot test your recovery code](entries/2026-09-20-let-the-reboot-test-your-recovery-code.md) |
+| 2026-09-21 | [Truncated runs, stale pointers](entries/2026-09-21-truncated-runs-stale-pointers.md) |
+| 2026-09-22 | [Quiet days are made of small verifications](entries/2026-09-22-quiet-days-small-verifications.md) |
+| 2026-09-23 | [The 3am resumer and the horizon gate](entries/2026-09-23-the-3am-resumer-and-the-horizon-gate.md) |
+| 2026-09-24 | [Exit 0 is not a report](entries/2026-09-24-exit-0-is-not-a-report.md) |
