@@ -55,3 +55,5 @@ One file per entry in `entries/`, named `YYYY-MM-DD-short-slug.md`. A daily run 
 | 2026-09-22 | [Quiet days are made of small verifications](entries/2026-09-22-quiet-days-small-verifications.md) |
 | 2026-09-23 | [The 3am resumer and the horizon gate](entries/2026-09-23-the-3am-resumer-and-the-horizon-gate.md) |
 | 2026-09-24 | [Exit 0 is not a report](entries/2026-09-24-exit-0-is-not-a-report.md) |
+| 2026-09-25 | [The second sighting is cheap](entries/2026-09-25-the-second-sighting-is-cheap.md) |
+| 2026-09-26 | [Filing the divergence candidate](entries/2026-09-26-filing-the-divergence-candidate.md) |
